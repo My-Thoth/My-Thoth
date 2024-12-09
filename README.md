@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Moshood A. Oyelami 
 I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security, and infrastructure automation.
 
 ---
@@ -22,10 +22,10 @@ I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=My-Thoth&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](www.linkedin.com/in/oyelami-moshood-4059a3180)
-- 📧 Email: [your-email@example.com](mailto:oyelami_moshood@yahoo.com)
+- 📧 Email: [oyelami_moshood@yahoo.com](mailto:oyelami_moshood@yahoo.com)
