@@ -7,7 +7,7 @@ I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security
 - 🌐 I specialize in **AWS Cloud Security**, **CI/CD Pipelines**, **Terraform**, and **Penetration Testing**.
 - 🔐 I have hands-on experience with **WordPress** and **Joomla** security assessments.
 - 📚 Continuously learning and growing in the **DevSecOps** space.
-- 🌱 Currently working on [country-city-dropdown-api] ([link to the repo](https://github.com/My-Thoth/country-city-dropdown-api)).
+- 🌱 Currently working on [Country-City Dropdown API](https://github.com/My-Thoth/country-city-dropdown-api)
 
 ---
 
@@ -21,11 +21,18 @@ I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security
 
 ---
 
+## 🏅 Certifications
+- AWS Certified Security Specialty
+- AWS Certified Solutions Architect – Associate
+- ISC2 CC - Certified in Cybersecurity
+
+---
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=My-Thoth&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/oyelami-moshood-4059a3180)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oyelami-moshood-4059a3180)
 - 📧 Email: [oyelami_moshood@yahoo.com](mailto:oyelami_moshood@yahoo.com)
