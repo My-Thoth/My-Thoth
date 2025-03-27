@@ -7,7 +7,7 @@ I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security
 - 🌐 I specialize in **AWS Cloud Security**, **CI/CD Pipelines**, **Terraform**, and **Penetration Testing**.
 - 🔐 I have hands-on experience with **WordPress** and **Joomla** security assessments.
 - 📚 Continuously learning and growing in the **DevSecOps** space.
-- 🌱 Currently working on [Country-City Dropdown API](https://github.com/My-Thoth/country-city-dropdown-api)
+- 🌱 Currently working on [Country-City Dropdown API](https://github.com/moshoodoyelami/country-city-dropdown-api)
 
 ---
 
@@ -29,7 +29,12 @@ I'm a passionate **DevSecOps Engineer** with expertise in DevOps, cloud security
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=My-Thoth&show_icons=true&theme=radical)
+### 🔹 Personal Contributions
+![moshoodoyelami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moshoodoyelami&show_icons=true&theme=radical)
+
+### 🔸 Company Contributions
+> 🚀 My work contributions are also part of [Prunedge-Dev-Team](https://github.com/Prunedge-Dev-Team).  
+> 🔍 Some contributions may be private, but they count towards my overall activity.
 
 ---
 
