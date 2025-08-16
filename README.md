@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me
-- � **Founder/Lead Security Engineer** at [HunterFortress](https://hunterfortress.com) - Cloud security consultancy
+- 🏰 **Founder/Lead Security Engineer** at [HunterFortress](https://hunterfortress.com) - Cloud security consultancy
 - 🔐 **8+ years** experience building secure cloud architectures (AWS/Azure/GCP)
 - 🛡️ **Specializations**: Cloud Security Posture Management, DevSecOps Automation, Compliance as Code
 - 🌱 **Current Project**: [Country-City Dropdown API](https://github.com/My-Thoth/country-city-dropdown-api) (Open-source geo-data solution)
@@ -33,14 +33,14 @@
 
 ---
 
-## � Professional Certifications
+## 📜 Professional Certifications
 
-| Provider | Certification | Earned |
-|----------|---------------|--------|
-| ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | [AWS Certified Security - Specialty](https://www.credly.com/badges/...) | 2023 |
-| ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft&logoColor=white) | [Microsoft Certified: Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/en-us/users/oyelamimoshood-3139/) | 2024 |
-| ![ISC2](https://img.shields.io/badge/-ISC2-FF6600?logo=isc2&logoColor=white) | [Certified in Cybersecurity (CC)](https://www.credly.com/badges/...) | 2023 |
-| ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | [AWS Solutions Architect - Associate](https://www.credly.com/badges/...) | 2022 |
+| Provider | Certification |
+|----------|---------------|
+| ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | AWS Certified Security - Specialty |
+| ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft&logoColor=white) | Microsoft Certified: Azure Security Engineer Associate (AZ-500) |
+| ![ISC2](https://img.shields.io/badge/-ISC2-FF6600?logo=isc2&logoColor=white) | Certified in Cybersecurity (CC) |
+| ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | AWS Solutions Architect - Associate |
 
 ---
 
@@ -62,7 +62,7 @@ Open-source geo-location API with:
 
 ## 📊 GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=My-Thoth&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=My-Thoth&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=My-Thoth&layout=compact&theme=radical&hide=html,css)
 
