@@ -2,7 +2,7 @@
 **DevSecOps Engineer | Cloud Security Architect | AWS/Azure Specialist**
 
 [![HunterFortress Website](https://img.shields.io/badge/🌐-HunterFortress-blue?style=flat-square)](https://hunterfortress.com)
-[![Visits Badge](https://badges.pufler.dev/visits/My-Thoth/My-Thoth?color=blue)](https://github.com/My-Thoth)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/My-Thoth&label=Visitors&labelColor=%23ff8a00&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https://github.com/My-Thoth)
 
 ---
 
